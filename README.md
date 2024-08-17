@@ -5,5 +5,5 @@ This repository contains all the Databricks Notebooks related to Formula 1 data,
 
 <p align="center">
   <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="Tokyo-Olympic/Screenshot 2024-08-16 181245.png" width="350" alt="accessibility text">
 </p>
