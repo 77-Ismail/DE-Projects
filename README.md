@@ -1,4 +1,4 @@
-# Tokyo-Olympic-Project / Formula 1
+# Tokyo-Olympic / Formula 1 Projects
 This repository contains all the Databricks Notebooks related to Formula 1 data and Tokyo Olympic, covering:  
 Data ingestion processes to extract raw data. 
 Data transformation steps to clean and format the data. 
